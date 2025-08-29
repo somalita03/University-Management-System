@@ -1,4 +1,5 @@
 🎓 University Information System (SQL Project)
+
 📌 Overview
 
 This project implements a University Information System using SQLite in Google Colab. It simulates real-world academic and administrative workflows, including student enrollments, professor assignments, course management, library borrowings, scholarships, attendance tracking, and club memberships.
